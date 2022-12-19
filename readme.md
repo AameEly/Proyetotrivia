@@ -2,7 +2,7 @@
 
 ## integrantes
 * amely
-* samantha
+* samanta
 * jarumi
 * stefanny
 * camila
